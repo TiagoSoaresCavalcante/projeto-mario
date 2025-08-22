@@ -1,6 +1,6 @@
-@import url(../css/backgroud-video.css);
-@import url(../css/header.css);
-@import url(../css/main.css);
+@import url(./background-video.css);
+@import url(./header.css);
+@import url(./main.css);
 
 *{
     margin: 0;
